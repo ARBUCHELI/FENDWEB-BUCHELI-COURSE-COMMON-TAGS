@@ -2,8 +2,7 @@
 
 ## COMMON TAGS
 
-1.
-Let’s make the heading stand out! Put an opening and closing h1 tag around the text that says Jetsetter Travel Agency.
+1. Let’s make the heading stand out! Put an opening and closing h1 tag around the text that says Jetsetter Travel Agency.
 
 Checkpoint 2 Passed
 
