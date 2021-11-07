@@ -8,4 +8,6 @@
 
 * Put an opening and closing button tag around the text that says Click here!.
 
+Take a loot to the live example here: https://bucheli-web-development-front-end-course-common-tags.netlify.app/
+
 
